@@ -7,6 +7,7 @@
 #this is not the value that needs to be returned
 
 #takes in an array and a value and returns the index of that value
+#expect(find_element_index(scale,2)).to eq(0)
 
 
 def find_element_index(array, value_to_find)
