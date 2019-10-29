@@ -6,6 +6,8 @@
 #compare each value in the array to the value provided
 #this is not the value that needs to be returned
 
+#takes in an array and a value and returns the index of that value
+
 
 def find_element_index(array, value_to_find)
   # Add your solution here
